@@ -2,6 +2,10 @@
 name = "yagababble"
 version = "0.1.0"
 edition = "2021"
+authors = ["Thomas Woolhouse"]
+description = "A simple gibberish word generator using markov chains"
+license = "MIT"
+
 
 [dependencies]
 itertools = "0.13.0"
